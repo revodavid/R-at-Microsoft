@@ -4,7 +4,7 @@ In 2015, Microsoft acquired the R-based software startup Revolution Analytics, w
 
 ## Slides
 
-Presented at Why R Webinars, December 10 2020. [Slides](R%20at%20Microsoft.pdf). 
+Presented at Why R Webinars, December 10 2020. [Slides](R%20at%20Microsoft.pdf), [video](https://youtu.be/ELUXXUf-NfI?t=22)
 
 ## Resources
 
